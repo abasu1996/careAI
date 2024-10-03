@@ -12,3 +12,6 @@ plotly==5.10.1
 PyMuPDF==1.21.0
 setuptools==67.6.1
 langsmith>=0.1.0,<0.2.0
+Cython==3.0.11
+plotly==5.24.1
+scikit-learn==1.5.1
