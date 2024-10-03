@@ -3,7 +3,7 @@ fuzzywuzzy==0.18.0
 langchain==0.0.195  
 langchain-community==0.0.36
 pandas==1.5.3
-PyPDF2==1.210
+PyPDF2==3.0.1
 scikit-learn==1.2.2
 python-dotenv==1.0.0
 openai==0.27.0
